@@ -1,2 +1,3 @@
-# Nightly
-A dark vscode with subtle vibrant colours for those long days of coding
+# Nightly - VS Code Theme
+
+### Vibrant yet subtle colours on a dark palette for those long days of coding.
