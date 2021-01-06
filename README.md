@@ -7,10 +7,10 @@ _Vibrant yet subtle pastel colours on a dark palette for those long days of codi
 ## Installation
 
 1. Open the extensions sidebar on Visual Studio Code
-1. Search for codeSTACKr Theme
+1. Search for Nightly Theme
 1. Click Install
 1. Click Reload to reload your editor
-1. Select the Manage Cog (bottom left) > Color Theme ＞ codeStackr Theme
+1. Select the Manage Cog (bottom left) > Color Theme ＞ Nightly Theme
 1. 🌟🌟🌟🌟🌟 Rate five-stars 😃
 
 ## Issues & Suggestions
