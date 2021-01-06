@@ -1,12 +1,12 @@
 {
   "name": "nightly-theme",
   "displayName": "Nightly Theme",
-  "description": "Vibrant yet subtle colours on a dark palette for those long days of coding.",
+  "description": "Vibrant yet subtle pastel colours on a dark palette for those long days of coding.",
   "publisher": "Ayush-Lal",
   "author": {
     "name": "Ayush Lal"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.46.0"
   },
