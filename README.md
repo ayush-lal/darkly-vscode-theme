@@ -1,4 +1,4 @@
-# Nightly - VS Code Theme [test]
+# Nightly - VS Code Theme
 
 _Vibrant yet subtle pastel colours on a dark palette for those long days of coding._
 
