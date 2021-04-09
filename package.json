@@ -38,5 +38,8 @@
         "path": "./themes/Nightly-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "vsce": "^1.81.1"
   }
 }
