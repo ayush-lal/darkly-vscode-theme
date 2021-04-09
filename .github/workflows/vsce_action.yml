@@ -31,7 +31,7 @@
 on:
   push:
     branches:
-      - master
+      - main
 name: Deploy Extension
 jobs:
   deploy:
