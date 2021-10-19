@@ -16,5 +16,3 @@ _Vibrant yet subtle pastel colours on a dark palette for those long days of codi
 ## Issues & Suggestions
 
 For any issues or suggestions, please use [GitHub issues](https://github.com/ayush-lal/Nightly/issues).
-
-> _This Theme is currently under development and therefore some language syntaxes might not be supported._
