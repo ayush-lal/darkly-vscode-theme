@@ -213,7 +213,10 @@
     },
     {
       "name": "Pseudo CSS",
-      "scope": ["entity.other.attribute-name.pseudo-element", "entity.other.attribute-name.pseudo-class"],
+      "scope": [
+        "entity.other.attribute-name.pseudo-element",
+        "entity.other.attribute-name.pseudo-class"
+      ],
       "settings": {
         "foreground": "#FAB795E6"
       }
@@ -222,7 +225,7 @@
       "name": "Variable names",
       "scope": ["entity.name.variable", "variable"],
       "settings": {
-        "foreground": "#E95678E6"
+        "foreground": "#ff93c2"
       }
     },
     {
@@ -316,7 +319,7 @@
       "name": "Strings",
       "scope": ["string.quoted", "string.template"],
       "settings": {
-        "foreground": "#FAB795E6"
+        "foreground": "#00fed7"
       }
     },
     {
@@ -358,7 +361,7 @@
       "name": "Object/JSON property names",
       "scope": ["support.type.property-name", "meta.object-literal.key"],
       "settings": {
-        "foreground": "#E95678E6"
+        "foreground": "#ff93c2"
       }
     },
     {
