@@ -1,21 +1,21 @@
 {
-  "name": "nightly-theme",
-  "displayName": "Nightly Theme",
+  "name": "nightfall-theme",
+  "displayName": "Nightfall Theme",
   "description": "Vibrant yet subtle pastel colours on a dark palette for those long days of coding.",
   "publisher": "Ayush-Lal",
   "author": {
     "name": "Ayush Lal"
   },
-  "version": "2.4.0",
+  "version": "2.5.0",
   "engines": {
     "vscode": "^1.46.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ayush-lal/Nightly"
+    "url": "https://github.com/ayush-lal/Nightfall"
   },
   "bugs": {
-    "url": "https://github.com/ayush-lal/Nightly/issues"
+    "url": "https://github.com/ayush-lal/Nightfall/issues"
   },
   "galleryBanner": {
     "color": "#09131b",
@@ -33,9 +33,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Nightly Theme",
+        "label": "Nightfall Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Nightly-theme.json"
+        "path": "./themes/Nightfall-theme.json"
       }
     ]
   }
