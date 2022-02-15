@@ -15,4 +15,4 @@ _Vibrant yet subtle pastel colours on a dark palette for those long days of codi
 
 ## Issues & Suggestions
 
-For any issues or suggestions, please use [GitHub issues](https://github.com/ayush-lal/Nightfall/issues).
+For any issues or suggestions, please use [GitHub issues](https://github.com/ayush-lal/Nightfall/issues)
