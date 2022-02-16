@@ -2,7 +2,7 @@
 
 _Vibrant yet subtle pastel colours on a dark palette for those long days of coding._
 
-![Nightfall Colour Palette](https://raw.githubusercontent.com/ayush-lal/Nightfall/main/images/colour_palette.png)
+![Nightfall Colour Palette](https://raw.githubusercontent.com/ayush-lal/nightfall-vscode-theme/main/images/colour_palette.png)
 
 ## Installation
 
@@ -15,4 +15,4 @@ _Vibrant yet subtle pastel colours on a dark palette for those long days of codi
 
 ## Issues & Suggestions
 
-For any issues or suggestions, please use [GitHub issues](https://github.com/ayush-lal/Nightfall/issues)
+For any issues or suggestions, please use [GitHub issues](https://github.com/ayush-lal/nightfall-vscode-theme/issues)
