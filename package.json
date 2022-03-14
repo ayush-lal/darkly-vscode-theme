@@ -1,12 +1,12 @@
 {
   "name": "darkly-theme",
   "displayName": "Darkly Theme",
-  "description": "Vibrant yet subtle pastel colours on a dark palette for those long days of coding.",
+  "description": "Vibrant yet subtle syntax colours on a dark palette for those long days of coding.",
   "publisher": "AyushL",
   "author": {
     "name": "Ayush Lal"
   },
-  "version": "3.0.0",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.46.0"
   },
