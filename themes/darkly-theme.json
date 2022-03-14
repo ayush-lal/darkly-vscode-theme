@@ -163,7 +163,7 @@
       "name": "Escape characters",
       "scope": "constant.character.escape",
       "settings": {
-        "foreground": "#25B0BCE6"
+        "foreground": "#03c1b6"
       }
     },
     {
@@ -177,7 +177,7 @@
       "name": "Function names",
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#25B0BCE6"
+        "foreground": "#03c1b6"
       }
     },
     {
@@ -214,7 +214,7 @@
       "name": "CSS ID selectors",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "foreground": "#25B0BCE6"
+        "foreground": "#03c1b6"
       }
     },
     {
@@ -231,7 +231,7 @@
       "name": "Variable names",
       "scope": ["entity.name.variable", "variable"],
       "settings": {
-        "foreground": "#ff93c2"
+        "foreground": "#67c9ff"
       }
     },
     {
@@ -295,7 +295,7 @@
       "name": "Markup italics",
       "scope": "markup.italic",
       "settings": {
-        "foreground": "#25B0BCE6",
+        "foreground": "#03c1b6",
         "fontStyle": "italic"
       }
     },
@@ -317,7 +317,7 @@
       "name": "Storage keywords",
       "scope": "storage",
       "settings": {
-        "foreground": "#53c2ff",
+        "foreground": "#FF67B7",
         "fontStyle": "normal"
       }
     },
@@ -353,7 +353,7 @@
       "name": "Provided functions",
       "scope": "support.function",
       "settings": {
-        "foreground": "#25B0BCE6"
+        "foreground": "#03c1b6"
       }
     },
     {
@@ -367,7 +367,7 @@
       "name": "Object/JSON property names",
       "scope": ["support.type.property-name", "meta.object-literal.key"],
       "settings": {
-        "foreground": "#ff93c2"
+        "foreground": "#67c9ff"
       }
     },
     {
