@@ -357,7 +357,7 @@
     },
     {
       "name": "Provided functions",
-      "scope": ["support.function", "variable.other.readwrite"],
+      "scope": ["support.function", "meta.export.default"],
       "settings": {
         "foreground": "#fae2aa"
       }
