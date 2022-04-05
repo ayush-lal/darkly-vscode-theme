@@ -3,3 +3,5 @@ backup
 .DS_Store
 .vscodeignore
 assets
+.vscode
+sample
