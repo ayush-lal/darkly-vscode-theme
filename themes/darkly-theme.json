@@ -63,7 +63,7 @@
     "editor.selectionBackground": "#2E303EB3",
     "editor.selectionHighlightBackground": "#5100ff9a",
     "editor.wordHighlightBackground": "#5100ff9a",
-    "editor.wordHighlightStrongBackground": "#5100ff9a",
+    "editor.wordHighlightStrongBackground": "#5100ff74",
     "editor.findMatchBackground": "#5100ff9a",
     "editor.findMatchHighlightBackground": "#5100ff9a",
     "editor.findRangeHighlightBackground": "#5100ff9a",
