@@ -235,7 +235,12 @@
       }
     },
     {
-      "scope": ["variable.other.constant", "variable.other.readwrite.alias"],
+      "scope": [
+        "variable.other.constant",
+        "variable.other.readwrite",
+        "variable.other.readwrite.alias",
+        "variable.other.object"
+      ],
       "settings": {
         "foreground": "#b8ddf2"
       }
