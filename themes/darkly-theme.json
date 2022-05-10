@@ -382,7 +382,7 @@
       "name": "Object/JSON property names",
       "scope": ["support.type.property-name", "meta.object-literal.key"],
       "settings": {
-        "foreground": "#B877DBE6"
+        "foreground": "#bc84da"
       }
     },
     {
