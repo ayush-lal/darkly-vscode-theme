@@ -7,7 +7,7 @@ _Vibrant yet subtle syntax colours on a dark palette for those long days of codi
 ## Installation
 
 1. Open the extensions sidebar on Visual Studio Code
-1. Search for Nightfall Theme
+1. Search for Darkly Theme
 1. Click Install
 1. Click Reload to reload your editor
 1. Select the Manage Cog (bottom left) > Color Theme ＞ Nightfall Theme
