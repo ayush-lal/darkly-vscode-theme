@@ -10,7 +10,7 @@ _Vibrant yet subtle syntax colours on a dark palette for those long days of codi
 1. Search for Darkly Theme
 1. Click Install
 1. Click Reload to reload your editor
-1. Select the Manage Cog (bottom left) > Color Theme ＞ Nightfall Theme
+1. Select the Manage Cog (bottom left) > Color Theme ＞ Darkly Theme
 1. 🌟🌟🌟🌟🌟 Rate five-stars 😃
 
 ## Issues & Suggestions
